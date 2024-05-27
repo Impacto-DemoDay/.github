@@ -1,4 +1,4 @@
-<img src="./banner_blue.jpg" alt="Impacto: Unindo Causas, transformando vidas!">
+# Unindo causas, transformando vidas!
 ## Sobre nós
 
 Nosso propósito é desenvolver um ambiente digital seguro e confiável, onde os usuários possam encontrar oportunidades de voluntariado e entidades para realizar doações. Dessa forma, pretendemos promover uma cultura de solidariedade e impacto social positivo.
