@@ -1,4 +1,4 @@
-<img src="../images/banner_blue.jpg" alt="Impacto: Unindo Causas, transformando vidas!">
+<img src="./banner_blue.jpg" alt="Impacto: Unindo Causas, transformando vidas!">
 
 ## Sobre nós
 
