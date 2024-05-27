@@ -15,7 +15,7 @@ Nosso propósito é desenvolver um ambiente digital seguro e confiável, onde os
 ## Tecnologias utilizadas no Projeto
 - ReactJS e ViteJS;
 - TailwindCSS e ShadcnUI;
-- Java SprintBoot;
+- Java SpringBoot;
 - MySQL;
 
 ## Entre em contato!
