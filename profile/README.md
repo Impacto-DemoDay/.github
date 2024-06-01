@@ -9,7 +9,7 @@ Essas são as pessoas que impactaram no projeto:
     <td align="center">
       <a href="#" title="defina o titulo do link">
         <img src="https://github.com/Celina22w.png" width="100px;" alt="Foto de Celina Wendy no GitHub"/><br>
-        <sub style="display: flex; flex-direction: column; gap: 20px; margin-top: 10px;">
+        <sub style="display: flex; flex-direction: column; gap: 30px; margin-top: 10px;">
           <b>Celina Wendy</b>
           <p>Dev Frontend</p>
         </sub>
