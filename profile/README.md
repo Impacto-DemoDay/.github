@@ -1,9 +1,5 @@
 ![Banner Impacto](./banner.jpg)
 
-## 📖 Sobre nós
-
-Nosso propósito é desenvolver um ambiente digital seguro e confiável, onde os usuários possam encontrar oportunidades de voluntariado e entidades para realizar doações. Dessa forma, pretendemos promover uma cultura de solidariedade e impacto social positivo.
-
 ## 🤝 Colaboradores
 
 Essas são as pessoas que impactaram no projeto:
