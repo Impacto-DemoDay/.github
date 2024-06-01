@@ -27,7 +27,7 @@ Essas são as pessoas que impactaram no projeto:
     <td align="center">
       <a href="#" title="defina o titulo do link">
         <img src="https://github.com/bieelbrz.png" width="100px;" alt="Foto de Celina Wendy no GitHub"/><br>
-        <sub style="display: flex; flex-direction: column; gap: 20px; margin-top: 10px; align-items: center;">
+        <sub>
           <b>Gabriel Braz<br/></b>
           <p>Scrum Master e Fullstack</p>
         </sub>
