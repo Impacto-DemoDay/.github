@@ -85,7 +85,7 @@ Essas são as pessoas que impactaram no projeto:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/oprojeto.impacto/" target="_blank">
+  <a href="https://www.instagram.com/impactoinspira/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
