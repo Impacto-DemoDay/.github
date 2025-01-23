@@ -59,8 +59,8 @@ Essas são as pessoas que impactaram no projeto:
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/LucasLTM" title="defina o titulo do link">
-        <img src="https://github.com/LucasLTM.png" width="100px;" alt="Foto de Celina Wendy no GitHub"/><br>
+      <a href="https://github.com/odevlucass" title="defina o titulo do link">
+        <img src="https://github.com/odevlucass.png" width="100px;" alt="Foto de Celina Wendy no GitHub"/><br>
         <sub style="display: flex; flex-direction: column; gap: 20px; margin-top: 10px; align-items: center;">
           Lucas Tomaz
         </sub>
